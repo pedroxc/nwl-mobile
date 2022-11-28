@@ -5,7 +5,7 @@ import botLayout from "./assets/layoutBot.png";
 import { Container, BotLayout, Layer, TopLayout, Frame } from "./styles";
 
 export default function App() {
-  const url = "https://nlw-mobile-pxc-pedroxc.vercel.app";
+  const url = "https://nwl-mobile.netlify.app/";
   return (
     <Container>
       <TopLayout src={topLayout} />
